@@ -2,7 +2,8 @@
 # Name : Virumaa Harish M
 # Reg no : 212223230246
 
-## AIM
+## AIM 
+
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
